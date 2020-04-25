@@ -37,8 +37,25 @@ The gaming experience on Skyblocks is special: it starts with a small island flo
 
 * **NPCs**: in `/warp spawn` you have there are many NPCs each of which offers quests to complete. They give you pretty good rewards.
 
+* **Shops**: we have 1 shop in game: `/token shop`:
+  
+  * **Token Shop**: this is the shop where you need to spend tokens to buy goods, which are more complicated to obtain but have a higher value. Here you can buy mobs eggs, claimblocks, keys and much more. 
+
 ## Factions
 ![Factions](https://jenny-ham5teak.github.io/assets/images/factions.png)
+Factions is a modality not for the weak hearted. If you want to excel you must compete with other players, destroy their bases, conquer new lands and enlarge your faction. We have mcMMO here too and a nice auction shop. In order to give that lil bit of spice, we have a system called Moarbows, it's an enhancement to the normal vanilla bows.
+* **mcMMO**: mcMMO introduces skills and abilities into Minecraft enhancing the native mechanics while extending the gameplay in ways that feel natural and require no client mods. mcMMO offers RPG experiences, leaderboards and parties too.
+
+* **Crates**: in `/warp crates` we have 3 types of crates: Epic, Mystic and Legendary and each of them contain different prizes. You will need keys to open them, obtainable through the shop or with the keydrops.
+
+* **Moarbows**: More than 25+ fully customized bows which gives abilities and effects. 
+
+* **Shops**: we have 2 types of shops in game: `/token shop` and `/ah`
+  
+  * **Token Shop**: this is the shop where you need to spend tokens to buy goods, which are more complicated to obtain but have a higher value. Here you can buy mobs eggs, claimblocks, keys and much more.
+  
+  * **Auctions**: this is a very interesting way to sell/buy items, basically the first one with coming out with a good price get the item. Be fast!
+
 ## Prison
 ![Prison](https://jenny-ham5teak.github.io/assets/images/prison.png)
 ## Minigames

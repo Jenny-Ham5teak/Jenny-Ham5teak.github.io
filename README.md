@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Ham5teak!
 
-You can use the [editor on GitHub](https://github.com/Jenny-Ham5teak/Jenny-Ham5teak.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ham5teak is a cracked 1.15.2 Minecraft network based in Singapore. We have many different gamemodes on our network such as Survival, Skyblocks, Factions, Prison, Minigames, SVanilla, KitPVP and Creative - all of which installed with unique plugins such as custom enchantments, items, world generation and topped with an effective global anticheat system. Our network also contains custom structures such as beautiful Spawns and PvP arenas, all constructed by our build team. Fun minigames and events are also frequently hosted by our friendly and dedicated staff team.
 
 ### Markdown
 

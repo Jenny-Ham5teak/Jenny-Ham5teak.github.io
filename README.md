@@ -28,3 +28,5 @@ The survival game experience is complete and fun: we have many systems such as j
 ## Minigames
 ## Semi Vanilla Survival
 ## Creative
+# Staff Team
+# Voting Sites

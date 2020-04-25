@@ -15,7 +15,7 @@ mcMMO introduces skills and abilities into Minecraft enhancing the native mechan
 * Crates
 In the spawn we have 3 types of crates: Epic, Mystic and Legendary and each of them contain different prizes. You will need keys to open them, obtainable through the shop or with the keydrops.
 * Shops
-In game abbiamo 3 types of shops: /token shop, /hs e /hm.
+We have 3 types of shops in game: /token shop, /hs e /hm.
   * Token Shop
 This is the shop where you need to spend tokens to buy goods, which are more complicated to obtain but have a higher value. Here you can buy mobs eggs, claimblocks, keys and much more.
   * Ham Shop

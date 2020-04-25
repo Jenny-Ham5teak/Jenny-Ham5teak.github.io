@@ -41,6 +41,6 @@ The gaming experience on Skyblocks is special: it starts with a small island flo
 ## Creative
 # Screenshots Gallery
 * **Survival** 
-[Survival](https://jenny-ham5teak.github.io/assets/images/survival.png)
+![Survival](https://jenny-ham5teak.github.io/assets/images/survival.png)
 # Staff Team
 # Voting Sites

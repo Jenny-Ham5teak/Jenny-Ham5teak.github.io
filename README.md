@@ -119,6 +119,10 @@ If you like to build with unlimited resources and show your creations to the pub
 # Staff Team
 Here is our Staff Team, who daily helps and run the server:
 
+Role | IGN
+---- | ---
+Technicians | Lemonsqueezer
+
 ## Technicians
 * **LemonSqueezer**
 

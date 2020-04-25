@@ -1,12 +1,12 @@
 # Welcome to Ham5teak!
-Ham5teak is a cracked 1.15.2 Minecraft network based in Singapore. We have many different gamemodes on our network such as Survival, Skyblocks, Factions, Prison, Minigames, SVanilla, KitPVP and Creative - all of which installed with unique plugins such as custom enchantments, items, world generation and topped with an effective global anticheat system. Our network also contains custom structures such as beautiful Spawns and PvP arenas, all constructed by our build team. Fun minigames and events are also frequently hosted by our friendly and dedicated staff team.
+Ham5teak is full fledged 1.15.2 Minecraft network based in Singapore and in Australia. We have many different gamemodes on our network such as Survival, Skyblocks, Factions, Prison, Minigames, Semi Vanilla Survival and Creative with custom plugins built-in. Our network also contains custom structures such as beautiful Spawns and PvP arenas, all constructed by our builders team. Minigames and events are also frequently hosted by our friendly and dedicated Staff team.
 
 ## Gamemodes
 We have 8 different gamemodes to meet each player's needs:
 
 ### Survival
-The survival game experience is complete and fun: we have many plugins such as jobs, AEs, mcMMO, custom worlds, and much more. We also have plugins that protect against griefing and that's what makes Survival a nice gamemode to start with.
-* **Jobs**: that's how a lot of player get rich on Survival: by joining jobs. This plugin that allows you to get paid for breaking, placing, killing, fishing, and crafting, and more. Class based professions, gain experience as you perform your job. Check `/jobs list` for more info.
+The survival game experience is complete and fun: we have many systems such as jobs, AEs, mcMMO, custom worlds, and much more. We also have protections against griefing and basically that's what makes Survival a nice gamemode to start with.
+* **Jobs**: that's how a lot of player get rich on Survival: by joining jobs. This system allows you to get paid for breaking, placing, killing, fishing, and crafting, and more. Class based professions, gain experience as you perform your job. Check `/jobs list` for more info.
 
 * **Advanced Enchantments (AEs)**: a huge framework of custom enchantments that gives that spice while PvPing. You can get them from Crates or by buying them from players. They can be really expensive so we suggest to start getting involved in them when you reach the end game.
 
@@ -26,6 +26,5 @@ The survival game experience is complete and fun: we have many plugins such as j
 ### Factions
 ### Prison
 ### Minigames
-### Svanilla
-### KitPVP
+### Semi Vanilla Survival
 ### Creative

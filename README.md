@@ -140,7 +140,7 @@ Here is our Staff Team, who daily helps and run the server:
 * **Reaper1987**
 * **PrincessKatrina**
 * **Smile4Thyself**
-* **Heartwin**
+* **Pwnkies**
 
 ## Moderators
 * **asiangirl**
@@ -188,5 +188,17 @@ Here is our Staff Team, who daily helps and run the server:
 * **_Magician_**
 
 # Voting Sites
-## smth
+* [Site 1](https://bit.ly/hamvote1)
+* [Site 2](https://bit.ly/hamvote2)
+* [Site 3](https://bit.ly/hamvote3)
+* [Site 4 (12-hourly)](https://bit.ly/hamvote4)
+* [Site 5](https://bit.ly/hamvote5)
+* [Site 6](https://bit.ly/hamvote6)
+* [Site 7](https://bit.ly/hamvote7)
+* [Site 8 (12-hourly)](https://bit.ly/hamvote8)
+* [Site 9](https://bit.ly/hamvote9)
+* [Site 10](https://bit.ly/hamvote10)
+
 # Credits
+* **asiangirl (writing the guide)**
+* **LemonSqueezer (providing screenshots)**

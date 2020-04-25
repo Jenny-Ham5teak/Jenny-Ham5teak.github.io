@@ -14,7 +14,7 @@ The survival game experience is complete and fun: we have many plugins such as j
 
 * **Crates**: in `/warp crates` we have 3 types of crates: Epic, Mystic and Legendary and each of them contain different prizes. You will need keys to open them, obtainable through the shop or with the keydrops.
 
-* **Shops**: we have 3 types of shops in game: `/token shop`, `/hs` and `/hm`.
+* **Shops**: we have 3 types of shops in game: `/token shop`, `/hs` and `/hm`:
   
   * **Token Shop**: this is the shop where you need to spend tokens to buy goods, which are more complicated to obtain but have a higher value. Here you can buy mobs eggs, claimblocks, keys and much more.
   

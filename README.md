@@ -8,19 +8,19 @@ We have 8 different gamemodes to meet each player's needs:
 The survival game experience is complete and fun: we have many plugins such as jobs, AEs, mcMMO, custom worlds, and much more. We also have plugins that protect against griefing and that's what makes Survival a nice gamemode to start with.
 #### Jobs
 That's how a lot of player get rich on Survival: by joining jobs. This plugin that allows you to get paid for breaking, placing, killing, fishing, and crafting, and more. Class based professions, gain experience as you perform your job. Check /jobs list for more info.
-#### Advanced Enchantments (AEs)
+* Advanced Enchantments (AEs)
 A huge framework of custom enchantments that gives that spice while PvPing. You can get them from Crates or by buying them from players. They can be really expensive so we suggest to start getting involved in them when you reach the end game.
-#### mcMMO
+* mcMMO
 mcMMO introduces skills and abilities into Minecraft enhancing the native mechanics while extending the gameplay in ways that feel natural and require no client mods. mcMMO offers RPG experiences, leaderboards and parties too.
-#### Crates
+* Crates
 In the spawn we have 3 types of crates: Epic, Mystic and Legendary and each of them contain different prizes. You will need keys to open them, obtainable through the shop or with the keydrops.
-#### Shops
+* Shops
 In game abbiamo 3 types of shops: /token shop, /hs e /hm.
-##### Token Shop
+  * Token Shop
 This is the shop where you need to spend tokens to buy goods, which are more complicated to obtain but have a higher value. Here you can buy mobs eggs, claimblocks, keys and much more.
-##### HS
+  * Ham Shop
 This is the shop where you buy the goods that the server offers such as building blocks, vegetables, food and minerals.
-##### HM
+  * Ham Market
 This is the shop where you buy the goods that the players offer, and it is where good deals are usually made on rare items, event items, enchanted armors, AEs and much more.
 ### Skyblocks
 ### Factions

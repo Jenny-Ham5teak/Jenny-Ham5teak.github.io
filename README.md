@@ -119,12 +119,14 @@ If you like to build with unlimited resources and show your creations to the pub
 # Staff Team
 ## Technicians
 * **LemonSqueezer**
+
 ## Helpers
 * **JustFenFen**
 * **bunandcheese**
 * **zzamizzul**
 * **Opa__**
 * **Ch4rlieScene77**
+
 ## Junior Moderators
 * **NekoNel**
 * **Whomobile**
@@ -137,6 +139,7 @@ If you like to build with unlimited resources and show your creations to the pub
 * **PrincessKatrina**
 * **Smile4Thyself**
 * **Heartwin**
+
 ## Moderators
 * **asiangirl**
 * **ItalianNinja**
@@ -144,6 +147,7 @@ If you like to build with unlimited resources and show your creations to the pub
 * **Dreadwulf**
 * **Vincce**
 * **iHeartU**
+
 ## Administrators
 * **iiDii**
 * **Introverse_13**
@@ -152,13 +156,16 @@ If you like to build with unlimited resources and show your creations to the pub
 * **NRDN**
 * **metalknight**
 * **RicardoMilos**
+
 ## Operators
 * **Riona**
+
 ## Managers
 * **Priania**
 * **Themis5**
 * **mosaid3**
 * **IzayaIII**
+
 ## Server-Heads
 * **Zioke**
 * **JaymzCS**
@@ -168,10 +175,13 @@ If you like to build with unlimited resources and show your creations to the pub
 * **LoadedApple**
 * **ZennyTV**
 * **The_captain**
+
 ## Technical-Heads
 * **SottaByte**
+
 ## Co-Owners
 * **Shadorunce**
+
 ## Owner
 * **_Magician_**
 

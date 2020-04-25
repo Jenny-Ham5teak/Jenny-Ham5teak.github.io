@@ -5,6 +5,7 @@ Ham5teak is full fledged 1.15.2 Minecraft network based in Singapore and in Aust
 We have 7 different gamemodes (expandable in the future) to meet each player's needs:
 
 ## Survival
+![Survival](https://jenny-ham5teak.github.io/assets/images/survival.png)
 The survival game experience is complete and fun: we have many systems such as jobs, AEs, mcMMO, custom worlds, and much more. We also have protections against griefing and basically that's what makes Survival a nice gamemode to start with.
 * **Jobs**: that's how a lot of player get rich on Survival: by joining jobs. This system allows you to get paid for breaking, placing, killing, fishing, and crafting, and more. Class based professions, gain experience as you perform your job. Check `/jobs list` for more info.
 
@@ -39,8 +40,5 @@ The gaming experience on Skyblocks is special: it starts with a small island flo
 ## Minigames
 ## Semi Vanilla Survival
 ## Creative
-# Screenshots Gallery
-* **Survival** 
-![Survival](https://jenny-ham5teak.github.io/assets/images/survival.png)
 # Staff Team
 # Voting Sites

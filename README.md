@@ -49,9 +49,9 @@ Factions is a modality not for the weak hearted. If you want to excel you must c
 
 * **Crates**: in `/warp crates` we have 3 types of crates: Epic, Mystic and Legendary and each of them contain different prizes. You will need keys to open them, obtainable through the shop or with the keydrops.
 
-* **Moarbows**: More than 25+ fully customized bows which gives abilities and effects. 
+* **Moarbows**: more than 25+ fully customized bows which gives abilities and effects. 
 
-* **Shops**: we have 2 types of shops in game: `/token shop` and `/ah`
+* **Shops**: we have 2 types of shops in game: `/token shop` and `/ah`:
   
   * **Token Shop**: this is the shop where you need to spend tokens to buy goods, which are more complicated to obtain but have a higher value. Here you can buy mobs eggs, claimblocks, keys and much more.
   
@@ -59,6 +59,24 @@ Factions is a modality not for the weak hearted. If you want to excel you must c
 
 ## Prison
 ![Prison](https://jenny-ham5teak.github.io/assets/images/prison.png)
+If your goal is to get rich and show it to the whole server then Prison is the server for you. Starting from Mine A you have to complete the quests and get to Mine Z, after which you are free to do what you want. We have Mythic Enchantments and Slimefun too.
+
+* **Advanced Enchantments (AEs)**: a huge framework of custom enchantments that gives that spice while PvPing. You can get them from Crates or by buying them from players. They can be really expensive so we suggest to start getting involved in them when you reach the end game.
+
+* **Mythical Enchantments (MEs)**: a system of custom enchantments for your pickaxe. You can get them from Crates or by buying them from players. Hunt 'em all!
+
+* **Slimefun**: Slimefun is a plugin that adds many things like jetpacks, many machines like "Ore Crushers, Armor Forges, Juicers, Crucibles, Many new types of Furnaces, and Block Placers".
+
+* **Crates**: in `/warp crates` we have 3 types of crates: Epic, Mystic and Legendary and each of them contain different prizes. You will need keys to open them, obtainable through the shop or with the keydrops.
+
+* **Shops**: we have 3 types of shops in game: `/token shop` and `/ebay` and `/pshop`:
+  
+  * **Token Shop**: this is the shop where you need to spend tokens to buy goods, which are more complicated to obtain but have a higher value. Here you can buy mobs eggs, claimblocks, keys and much more.
+  
+  * **eBay**: this is the shop where you buy the goods that the server offers such as building blocks, vegetables, food and minerals.
+  
+  * **Pshop**: this is the shop where you buy the goods that the players offer, and it is where good deals are usually made on rare items, event items, enchanted armors, AEs and much more.
+
 ## Minigames
 ![Minigames](https://jenny-ham5teak.github.io/assets/images/minigames.png)
 ## Semi Vanilla Survival

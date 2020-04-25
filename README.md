@@ -17,7 +17,9 @@ The survival game experience is complete and fun: we have many plugins such as j
 * **Shops**: we have 3 types of shops in game: `/token shop`, `/hs` and `/hm`.
   
   * **Token Shop**: this is the shop where you need to spend tokens to buy goods, which are more complicated to obtain but have a higher value. Here you can buy mobs eggs, claimblocks, keys and much more.
+  
   * **Ham Shop**: this is the shop where you buy the goods that the server offers such as building blocks, vegetables, food and minerals.
+  
   * **Ham Market**: this is the shop where you buy the goods that the players offer, and it is where good deals are usually made on rare items, event items, enchanted armors, AEs and much more.
 
 ### Skyblocks

@@ -1,8 +1,9 @@
 # Welcome to Ham5teak!
+
 ## Introduction
 Ham5teak is full fledged 1.15.2 Minecraft network based in Singapore and in Australia. We have many different gamemodes on our network such as Survival, Skyblocks, Factions, Prison, Minigames, Semi Vanilla Survival and Creative with custom plugins built-in. Our network also contains custom structures such as beautiful Spawns and PvP arenas, all constructed by our builders team. Minigames and events are also frequently hosted by our friendly and dedicated Staff team.
 
-## Gamemodes
+# Gamemodes
 We have 7 different gamemodes (expandable in the future) to meet each player's needs:
 
 ## Survival

@@ -24,6 +24,7 @@ The survival game experience is complete and fun: we have many systems such as j
   * **HamMarket**: this is the shop where you buy the goods that the players offer, and it is where good deals are usually made on rare items, event items, enchanted armors, AEs and much more.
 
 ## Skyblocks
+![Skyblocks](https://jenny-ham5teak.github.io/assets/images/skyblocks.png)
 The gaming experience on Skyblocks is special: it starts with a small island floating in the sky and the goal is to expand the main platform by building redstone contraptions, farms, advanced cobblestone generators and much more. mcMMO is available here as well and in order to prevent lag we have a redstone limiter. AEs are available here too. Another neat feature is the custom cobblestone generator system.
 * **Advanced Enchantments (AEs)**: a huge framework of custom enchantments that gives that spice while PvPing. You can get them from Crates or by buying them from players. They can be really expensive so we suggest to start getting involved in them when you reach the end game.
 
@@ -36,9 +37,15 @@ The gaming experience on Skyblocks is special: it starts with a small island flo
 * **NPCs**: in `/warp spawn` you have there are many NPCs each of which offers quests to complete. They give you pretty good rewards.
 
 ## Factions
+![Factions](https://jenny-ham5teak.github.io/assets/images/factions.png)
 ## Prison
+![Prison](https://jenny-ham5teak.github.io/assets/images/prison.png)
 ## Minigames
+![Minigames](https://jenny-ham5teak.github.io/assets/images/minigames.png)
 ## Semi Vanilla Survival
+![Semi Vanilla Surival](https://jenny-ham5teak.github.io/assets/images/semi_vanilla_survival.png)
 ## Creative
+![Creative](https://jenny-ham5teak.github.io/assets/images/creative.png)
 # Staff Team
 # Voting Sites
+# Credits

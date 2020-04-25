@@ -121,17 +121,17 @@ Here is our Staff Team, who daily helps and run the server:
 
 Role | IGN
 ---- | ---
-Technicians | Lemonsqueezer
-Helpers | JustFenFen, bunandcheese, zzamizzul, Opa__, Ch4rlieScene77
-Junior Moderators | NekoNel, Whomobile, gab, Voidcraft, Calamity, smoKED_hamLINZ, DefaultAlexSkin, Reaper1987, PrincessKatrina, Smile4Thyself, Pwnkies
-Moderators | asiangirl, ItalianNinja, RarityOfTheSpook, Dreadwulf, Vincce, iheartU
-Administrators | iiDii, Introverse_13, UsuiTakumi, ItsMeYJ, NRDN, metalknight, RicardoMilos
-Operators | Riona
-Managers | Priania, Themis5, mosaid3, IzayaIII
-Server-Heads | Zioke, JaymzCS, Kremzion, Benlamp, InstaTrapCorp, LoadedApple, ZennyTV, The_captain
-Technical-Heads | SottaByte
-Co-Owners | Shadorunce
-Owner | Magician
+**Technicians** | Lemonsqueezer
+**Helpers** | JustFenFen, bunandcheese, zzamizzul, Opa__, Ch4rlieScene77
+**Junior Moderators** | NekoNel, Whomobile, gab, Voidcraft, Calamity, smoKED_hamLINZ, DefaultAlexSkin, Reaper1987, PrincessKatrina, Smile4Thyself, Pwnkies
+**Moderators** | asiangirl, ItalianNinja, RarityOfTheSpook, Dreadwulf, Vincce, iheartU
+**Administrators** | iiDii, Introverse_13, UsuiTakumi, ItsMeYJ, NRDN, metalknight, RicardoMilos
+**Operators** | Riona
+**Managers** | Priania, Themis5, mosaid3, IzayaIII
+**Server-Heads** | Zioke, JaymzCS, Kremzion, Benlamp, InstaTrapCorp, LoadedApple, ZennyTV, The_captain
+**Technical-Heads** | SottaByte
+**Co-Owners** | Shadorunce
+**Owner** | _Magician_
 
 # Voting Sites
 * [Site 1](https://bit.ly/hamvote1)

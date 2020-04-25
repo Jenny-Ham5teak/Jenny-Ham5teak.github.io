@@ -117,6 +117,8 @@ If you like to build with unlimited resources and show your creations to the pub
   * **Token Shop**: this is the shop where you need to spend tokens to buy goods, which are more complicated to obtain but have a higher value. Here you can buy mobs eggs, claimblocks, keys and much more.
 
 # Staff Team
+Here is our Staff Team, who daily helps and run the server:
+
 ## Technicians
 * **LemonSqueezer**
 
@@ -186,4 +188,5 @@ If you like to build with unlimited resources and show your creations to the pub
 * **_Magician_**
 
 # Voting Sites
+## smth
 # Credits

@@ -1,10 +1,10 @@
 # Welcome to Ham5teak!
 Ham5teak is full fledged 1.15.2 Minecraft network based in Singapore and in Australia. We have many different gamemodes on our network such as Survival, Skyblocks, Factions, Prison, Minigames, Semi Vanilla Survival and Creative with custom plugins built-in. Our network also contains custom structures such as beautiful Spawns and PvP arenas, all constructed by our builders team. Minigames and events are also frequently hosted by our friendly and dedicated Staff team.
 
-## Gamemodes
+# Gamemodes
 We have 7 different gamemodes (expandable in the future) to meet each player's needs:
 
-### Survival
+## Survival
 The survival game experience is complete and fun: we have many systems such as jobs, AEs, mcMMO, custom worlds, and much more. We also have protections against griefing and basically that's what makes Survival a nice gamemode to start with.
 * **Jobs**: that's how a lot of player get rich on Survival: by joining jobs. This system allows you to get paid for breaking, placing, killing, fishing, and crafting, and more. Class based professions, gain experience as you perform your job. Check `/jobs list` for more info.
 
@@ -22,9 +22,9 @@ The survival game experience is complete and fun: we have many systems such as j
   
   * **HamMarket**: this is the shop where you buy the goods that the players offer, and it is where good deals are usually made on rare items, event items, enchanted armors, AEs and much more.
 
-### Skyblocks
-### Factions
-### Prison
-### Minigames
-### Semi Vanilla Survival
-### Creative
+## Skyblocks
+## Factions
+## Prison
+## Minigames
+## Semi Vanilla Survival
+## Creative

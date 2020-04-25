@@ -117,5 +117,63 @@ If you like to build with unlimited resources and show your creations to the pub
   * **Token Shop**: this is the shop where you need to spend tokens to buy goods, which are more complicated to obtain but have a higher value. Here you can buy mobs eggs, claimblocks, keys and much more.
 
 # Staff Team
+## Technicians
+* **LemonSqueezer**
+## Helpers
+* **JustFenFen**
+* **bunandcheese**
+* **zzamizzul**
+* **Opa__**
+* **Ch4rlieScene77**
+## Junior Moderators
+* **NekoNel**
+* **Whomobile**
+* **gab**
+* **Voidcraft**
+* **Calamity**
+* **smoKED_hamLINZ**
+* **DefaultAlexSkin**
+* **Reaper1987**
+* **PrincessKatrina**
+* **Smile4Thyself**
+* **Heartwin**
+## Moderators
+* **asiangirl**
+* **ItalianNinja**
+* **RarityOfTheSpook**
+* **Dreadwulf**
+* **Vincce**
+* **iHeartU**
+## Administrators
+* **iiDii**
+* **Introverse_13**
+* **UsuiTakumi**
+* **ItsMeYJ**
+* **NRDN**
+* **metalknight**
+* **RicardoMilos**
+## Operators
+* **Riona**
+## Managers
+* **Priania**
+* **Themis5**
+* **mosaid3**
+* **IzayaIII**
+## Server-Heads
+* **Zioke**
+* **JaymzCS**
+* **Kremzion**
+* **BenLamp**
+* **InstaTrapCorp**
+* **LoadedApple**
+* **ZennyTV**
+* **The_captain**
+## Technical-Heads
+* **SottaByte**
+## Co-Owners
+* **Shadorunce**
+## Owner
+* **_Magician_**
+
 # Voting Sites
 # Credits

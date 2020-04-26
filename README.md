@@ -152,3 +152,4 @@ N° | Site
 # Credits
 * **asiangirl (writing the guide)**
 * **LemonSqueezer (providing screenshots)**
+![Instagram](https://jenny-ham5teak.github.io/assets/images/instagram_logo.png)

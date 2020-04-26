@@ -1,14 +1,14 @@
 # Welcome to Ham5teak!
 
 ## Introduction
-Ham5teak is full fledged 1.15.2 Minecraft network based in Singapore and in Australia. We have many different gamemodes on our network such as Survival, Skyblocks, Factions, Prison, Minigames, Semi Vanilla Survival and Creative with custom plugins built-in. Our network also contains custom structures such as beautiful Spawns and PvP arenas, all constructed by our builders team. Minigames and events are also frequently hosted by our friendly and dedicated Staff team.
+_Ham5teak_ is full fledged _1.15.2 Minecraft network_ based in _Singapore_ and in _Australia_. We have many different gamemodes on our network such as Survival, Skyblocks, Factions, Prison, Minigames, Semi Vanilla Survival and Creative with custom plugins built-in. Our network also contains custom structures such as beautiful Spawns and PvP arenas, all constructed by our builders team. Minigames and events are also frequently hosted by our friendly and dedicated Staff team.
 
 # Gamemodes
-We have 7 different gamemodes (expandable in the future) to meet each player's needs:
+We have 7 different _gamemodes_ (expandable in the future) to meet each player's needs:
 
 ## Survival
 ![Survival](https://jenny-ham5teak.github.io/assets/images/survival.png)
-The survival game experience is complete and fun: we have many systems such as jobs, AEs, mcMMO, custom worlds, and much more. We also have protections against griefing and basically that's what makes Survival a nice gamemode to start with.
+The **survival** game experience is complete and fun: we have many systems such as jobs, AEs, mcMMO, custom worlds, and much more. We also have protections against griefing and basically that's what makes Survival a nice gamemode to start with.
 
 * **Jobs**: that's how a lot of player get rich on Survival: by joining jobs. This system allows you to get paid for breaking, placing, killing, fishing, and crafting, and more. Class based professions, gain experience as you perform your job. Check `/jobs list` for more info.
 
@@ -28,7 +28,7 @@ The survival game experience is complete and fun: we have many systems such as j
 
 ## Skyblocks
 ![Skyblocks](https://jenny-ham5teak.github.io/assets/images/skyblocks.png)
-The gaming experience on Skyblocks is special: it starts with a small island floating in the sky and the goal is to expand the main platform by building redstone contraptions, farms, advanced cobblestone generators and much more. mcMMO is available here as well and in order to prevent lag we have a redstone limiter. AEs are available here too. Another neat feature is the custom cobblestone generator system.
+The gaming experience on **Skyblocks** is special: it starts with a small island floating in the sky and the goal is to expand the main platform by building redstone contraptions, farms, advanced cobblestone generators and much more. mcMMO is available here as well and in order to prevent lag we have a redstone limiter. AEs are available here too. Another neat feature is the custom cobblestone generator system.
 
 * **Advanced Enchantments (AEs)**: a huge framework of custom enchantments that gives that spice while PvPing. You can get them from Crates or by buying them from players. They can be really expensive so we suggest to start getting involved in them when you reach the end game.
 
@@ -46,7 +46,7 @@ The gaming experience on Skyblocks is special: it starts with a small island flo
 
 ## Factions
 ![Factions](https://jenny-ham5teak.github.io/assets/images/factions.png)
-Factions is a modality not for the weak hearted. If you want to excel you must compete with other players, destroy their bases, conquer new lands and enlarge your faction. We have mcMMO here too and a nice auction shop. In order to give that lil bit of spice, we have a system called Moarbows, it's an enhancement to the normal vanilla bows.
+**Factions** is a modality not for the weak hearted. If you want to excel you must compete with other players, destroy their bases, conquer new lands and enlarge your faction. We have mcMMO here too and a nice auction shop. In order to give that lil bit of spice, we have a system called Moarbows, it's an enhancement to the normal vanilla bows.
 
 * **mcMMO**: mcMMO introduces skills and abilities into Minecraft enhancing the native mechanics while extending the gameplay in ways that feel natural and require no client mods. mcMMO offers RPG experiences, leaderboards and parties too.
 
@@ -62,7 +62,7 @@ Factions is a modality not for the weak hearted. If you want to excel you must c
 
 ## Prison
 ![Prison](https://jenny-ham5teak.github.io/assets/images/prison.png)
-If your goal is to get rich and show it to the whole server then Prison is the server for you. Starting from Mine A you have to complete the quests and get to Mine Z, after which you are free to do what you want. We have Mythic Enchantments and Slimefun too.
+If your goal is to get rich and show it to the whole server then **Prison** is the server for you. Starting from Mine A you have to complete the quests and get to Mine Z, after which you are free to do what you want. We have Mythic Enchantments and Slimefun too.
 
 * **Advanced Enchantments (AEs)**: a huge framework of custom enchantments that gives that spice while PvPing. You can get them from Crates or by buying them from players. They can be really expensive so we suggest to start getting involved in them when you reach the end game.
 
@@ -82,7 +82,7 @@ If your goal is to get rich and show it to the whole server then Prison is the s
 
 ## Minigames
 ![Minigames](https://jenny-ham5teak.github.io/assets/images/minigames.png)
-It's pretty self-explanatory, here we have a few minigames, if you wanna have some fun with your friends this is the right server to check. They are constantly changed and updated so keep in touch with us!
+It's pretty self-explanatory, here we have a few **minigames**, if you wanna have some fun with your friends this is the right server to check. They are constantly changed and updated so keep in touch with us!
 
 * **Build Battle**: given a set time, you have to build something according to theme. The most voted build wins.
 
@@ -96,7 +96,7 @@ It's pretty self-explanatory, here we have a few minigames, if you wanna have so
 
 ## Semi Vanilla Survival
 ![Semi Vanilla Surival](https://jenny-ham5teak.github.io/assets/images/semi_vanilla_survival.png)
-If you want a completely vanilla gaming experience, without external mods or plugins, then Semi Survival Vanilla is the server for you. Here you can essentially do what you do in a singleplayer world but the difference is that you are on a server with other people.
+If you want a completely vanilla gaming experience, without external mods or plugins, then **Semi Vanilla Survival** is the server for you. Here you can essentially do what you do in a singleplayer world but the difference is that you are on a server with other people.
 
 * **Crates**: in `/warp crates` we have 4 types of crates: Epic, Mystic, Supreme and Legendary and each of them contain different prizes. You will need keys to open them, obtainable through the shop or with the keydrops.
 
@@ -106,7 +106,7 @@ If you want a completely vanilla gaming experience, without external mods or plu
 
 ## Creative
 ![Creative](https://jenny-ham5teak.github.io/assets/images/creative.png)
-If you like to build with unlimited resources and show your creations to the public, we have Creative and it is probably what you want. We have Plots there, just pick one and go building!
+If you like to build with unlimited resources and show your creations to the public, we have **Creative** and it is probably what you want. We have Plots there, just pick one and go building!
 
 * **Plots**: show here your creations, type `/plot auto` and you are ready to build.
 
@@ -134,16 +134,20 @@ Role | IGN
 **Owner** | _Magician_
 
 # Voting Sites
-* [Site 1](https://bit.ly/hamvote1)
-* [Site 2](https://bit.ly/hamvote2)
-* [Site 3](https://bit.ly/hamvote3)
-* [Site 4 (12-hourly)](https://bit.ly/hamvote4)
-* [Site 5](https://bit.ly/hamvote5)
-* [Site 6](https://bit.ly/hamvote6)
-* [Site 7](https://bit.ly/hamvote7)
-* [Site 8 (12-hourly)](https://bit.ly/hamvote8)
-* [Site 9](https://bit.ly/hamvote9)
-* [Site 10](https://bit.ly/hamvote10)
+By voting you support the server and get awesome rewards such as tokens, keys, claimblocks and much more:
+
+N° | Site
+-- | ---- 
+**1** |[Click here!](https://bit.ly/hamvote1)
+**2** |[Click here!](https://bit.ly/hamvote2)
+**3** |[Click here!](https://bit.ly/hamvote3)
+**4** |[Click here!](https://bit.ly/hamvote4)
+**5** |[Click here!](https://bit.ly/hamvote5)
+**6** |[Click here!](https://bit.ly/hamvote6)
+**7** |[Click here!](https://bit.ly/hamvote7)
+**8** |[Click here!](https://bit.ly/hamvote8)
+**9** |[Click here!](https://bit.ly/hamvote9)
+**10** |[Click here!](https://bit.ly/hamvote10)
 
 # Credits
 * **asiangirl (writing the guide)**
